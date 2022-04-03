@@ -1,6 +1,6 @@
 # SSHPLUS
 
-apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/ProverbioX9/SSHPLUS/main/Plus && chmod 777 Plus && ./Plus
+apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/wellzin-blip/SCRIPTMULTIHD4G/main/Plus && chmod 777 Plus && ./Plus
 
 
 #Acessa Root
