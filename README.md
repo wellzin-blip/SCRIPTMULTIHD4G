@@ -5,4 +5,4 @@ apt update -y && apt upgrade -y && wget https://raw.githubusercontent.com/wellzi
 
 #Acessa Root
 
-wget https://raw.githubusercontent.com/ProverbioX9/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+wget https://raw.githubusercontent.com/wellzin-blip/SCRIPTMULTIHD4G/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
